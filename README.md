@@ -195,4 +195,4 @@ This repository serves as the official landing page for ACD/ChemSketch Freeware.
 **Get the most recent version of ACD/ChemSketch Freeware today!**
 
 ---
-**Last updated:** 2026-11-13 18:23:44 UTC
+**Last updated:** 2026-11-14 00:11:03 UTC
